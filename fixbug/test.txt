@@ -1,1 +1,2 @@
 fixbug test1
+fixbug test2
